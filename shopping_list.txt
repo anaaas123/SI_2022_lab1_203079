@@ -1,5 +1,5 @@
 Monitor x 1
-Zvuchnici x 2
+Zvuchnici x 3
 Gluvche x 3
 Tastatura x 4
 Printer x 1
